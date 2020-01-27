@@ -1,0 +1,14 @@
+.task-container {
+    background: blue;
+    height: 200px;
+    width: 60%;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.task-list {
+  padding: 1rem;
+  font-size: 18px;
+}
